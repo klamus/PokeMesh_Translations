@@ -187,4 +187,17 @@
     <string name="checking_account">Chequeando cuenta: %s</string>
     <string name="account_not_connected">La cuenta no está conectada</string>
     <string name="account_connected">La cuenta está conectada</string>
+    <string name="timers">Contador de Tiempo</string>
+    <string name="timers_summary">Muestra el temporizador sobre los Pokémon. Ocultar los temporizadores mejora el rendimiento en dispositivos con poca memoria.</string>
+    <string name="timers_colors">Rareza en Temporizadores</string>
+    <string name="timers_colors_summary">Activa o desactiva la visualización de colores por rareza de los Pokémon en los temporizadores.</string>
+    <string name="alternative_icons">Iconos alternativos</string>
+    <string name="alternative_icons_summary">Activa o desactiva el pack de iconos alternativos.</string>
+    <string name="pokemesh_original_names">Nombre de los Pokémon</string>
+    <string name="pokemesh_original_names_summary">Usa la traducción inglesa para los nombres de los Pokémon (En español son los mismos).</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="notifications_summary">Activa o desactiva la alerta de notificaciones al finalizar cada escaneo. También puedes eliminar las notificaciones para los Pokémon que no te interesen desde la Pokédex.</string>
+    <string name="notifications_sounds_summary">Activar o desactivar el sonido para las notificaciones.</string>
+    <string name="ilovepokemesh">Yo amo PokéMesh</string>
+    <string name="ilovepokemesh_summary">Activa un banner no intrusivo en la parte baja del mapa para ayudar a Pokémesh.</string>
 </resources>
